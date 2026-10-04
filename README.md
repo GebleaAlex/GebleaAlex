@@ -1,114 +1,98 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=200&section=header&text=Alex%20Geblea&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full-stack%20%C2%B7%20Automation%20%C2%B7%20AI%20workflows&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=200&section=header&text=Alex%20Geblea&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Team%20Lead%20%C2%B7%20Full-stack%20Engineer%20%C2%B7%20AI%20workflows&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Alex Geblea · Team Lead · Full-stack Engineer · AI workflows" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=700&lines=Vue+%2B+Nuxt+on+the+front%2C+Django+on+the+back;Automating+the+boring+parts+since+day+one;Building+AI+workflows+that+actually+ship;Deployed+on+AWS%2C+monitored+in+production" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=0EA5E9&center=true&vCenter=true&width=640&lines=Full-stack%2C+from+data+model+to+deploy;Carbon+accounting+software+in+production;IFC%2FBIM+models+in+the+browser+with+Three.js;Claude+agents+that+do+real+work" alt="Full-stack, from data model to deploy · Carbon accounting software in production · IFC/BIM models in the browser · Claude agents that do real work" />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alex-geblea/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D" alt="LinkedIn" /></a>
+  <a href="mailto:alex.geblea@carbontool.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Bucharest%2C%20Romania-1E3A8A?style=flat-square&logo=googlemaps&logoColor=white" alt="Bucharest, Romania" />
 </div>
 
 <br/>
 
-<!-- About -->
 ## 👋 About me
 
-I'm a software engineer who likes owning a feature end to end: the data model, the API, the UI, the pipeline that ships it, and the automation that keeps it running.
+I lead the engineering teams at **[CarbonTool](https://carbontool.com)** and **[BuildGreen](https://build-green.eu/)** and still write a lot of the code. I like owning a feature end to end: the data model, the API, the UI, the pipeline that ships it and the monitoring that tells us when it breaks.
 
-- 🧩 **Full-stack** with **Vue / Nuxt** on the front and **Python / Django / Flask / FastAPI** on the back
-- 🗄️ Comfortable in both worlds of data: relational **SQL** and document/key-value **NoSQL**
-- ⚙️ I automate workflows, integrations and internal tooling so teams stop doing things by hand
-- 🤖 I build **AI workflows** and agent pipelines that plug into real products, not demos
-- ☁️ I deploy and run things on **AWS**, infrastructure as code included
-- 🏗️ I work with **IFC / BIM** models: parsing them server-side with IfcOpenShell and rendering them in the browser with **Three.js**
-- 🧭 I lead engineering work as well as write it: planning, Scrum, code review and keeping delivery predictable
-- 📍 Currently building sustainability & carbon-accounting software
+- 🌱 **Day job:** carbon accounting and green-building software used by companies and project teams, from the database to the cloud it runs on.
+- 🏗️ **Buildings as data:** IFC/BIM models parsed with IfcOpenShell and rendered in the browser with Three.js, plus LCA imports for embodied carbon.
+- 🤖 **AI that ships:** MCP servers that expose product data to assistants, and Claude agents that triage, research, test and write code under human review.
+- 🧭 **Leading the teams:** planning, Scrum, code review, releases and keeping delivery predictable.
 
 <br/>
 
-<!-- Tech stack -->
+## 🚀 Featured work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/GebleaAlex/ifc-carbon-viewer">
+        <img src="https://raw.githubusercontent.com/GebleaAlex/ifc-carbon-viewer/main/docs/viewer-carbon-selection.png" alt="IFC Carbon Viewer coloured by embodied carbon" width="100%" />
+      </a>
+      <h3><a href="https://github.com/GebleaAlex/ifc-carbon-viewer">IFC Carbon Viewer</a></h3>
+      <p>Open an IFC/BIM model in the browser and see an indicative embodied-carbon estimate for every element. Colour by material, carbon or IFC class, filter by storey and inspect property sets.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/IfcOpenShell-1F6FEB?style=flat-square" alt="IfcOpenShell" />
+        <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Agent Console · private</h3>
+      <p>A self-hosted console for a team of Claude Code agents: inbox triage across Outlook, Teams and Jira, reply drafts, research briefings, QA runs in a real browser and developer agents that work on branches for review. An orchestrator hands work to the right agent.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+        <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white" alt="Nuxt" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 ## 🛠️ Tech stack
 
+Mostly **Python** and **TypeScript**, with **Django**, **FastAPI**, **Vue** and **Nuxt**, running on **AWS**. The full toolbox:
+
 <div align="center">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=vue,nuxtjs,ts,js,html,css,sass,tailwind,vite,vitest,pinia&theme=dark" alt="frontend" />
-
-<img src="https://img.shields.io/badge/PrimeVue-10B981?style=for-the-badge&logo=primevue&logoColor=white" alt="PrimeVue" />
-<img src="https://img.shields.io/badge/ApexCharts-FF4560?style=for-the-badge" alt="ApexCharts" />
-<img src="https://img.shields.io/badge/Vue%20Flow-10B981?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue%20Flow" />
-<img src="https://img.shields.io/badge/vue--i18n-26A69A?style=for-the-badge&logo=i18next&logoColor=white" alt="vue--i18n" />
-<img src="https://img.shields.io/badge/OpenAPI%20client-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI%20client" />
-<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry" />
-<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
-<img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs&theme=dark" alt="backend" />
-
-<img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white" alt="Django%20REST%20Framework" />
-<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
-<img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black" alt="Ruff" />
-<img src="https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white" alt="Poetry" />
-<img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-<img src="https://img.shields.io/badge/OpenAPI%20/%20Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="OpenAPI%20/%20Swagger" />
-<img src="https://img.shields.io/badge/Locust-1E9F4B?style=for-the-badge&logo=locust&logoColor=white" alt="Locust" />
-
-**Data**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,dynamodb,sqlite&theme=dark" alt="data" />
-
-<img src="https://img.shields.io/badge/Amazon%20RDS-FF9900?style=for-the-badge" alt="Amazon%20RDS" />
-<img src="https://img.shields.io/badge/ElastiCache-FF9900?style=for-the-badge" alt="ElastiCache" />
-<img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge" alt="Amazon%20S3" />
-<img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" />
-
-**Cloud, DevOps & Automation**
-
-<img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,githubactions,linux,nginx,bash&theme=dark" alt="cloud" />
-
-<img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge" alt="Amazon%20EKS" />
-<img src="https://img.shields.io/badge/Amazon%20ECR-FF9900?style=for-the-badge" alt="Amazon%20ECR" />
-<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge" alt="CloudWatch" />
-<img src="https://img.shields.io/badge/Route%2053-FF9900?style=for-the-badge" alt="Route%2053" />
-<img src="https://img.shields.io/badge/AWS%20KMS-FF9900?style=for-the-badge" alt="AWS%20KMS" />
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
-<img src="https://img.shields.io/badge/SOPS-2C3E50?style=for-the-badge" alt="SOPS" />
-<img src="https://img.shields.io/badge/pre--commit-FAB040?style=for-the-badge&logo=pre-commit&logoColor=black" alt="pre--commit" />
-
-**3D & BIM**
-
-<img src="https://skillicons.dev/icons?i=threejs&theme=dark" alt="3d" />
-
-<img src="https://img.shields.io/badge/IFC%20files%20%26%20parsers-1F6FEB?style=for-the-badge" alt="IFC files & parsers" />
-<img src="https://img.shields.io/badge/IfcOpenShell-1F6FEB?style=for-the-badge" alt="IfcOpenShell" />
-<img src="https://img.shields.io/badge/web--ifc-1F6FEB?style=for-the-badge" alt="web-ifc" />
-<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" />
-
-**AI & Tooling**
-
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPk9wZW5BSTwvdGl0bGU%2BPHBhdGggZD0iTTIyLjI4MTkgOS44MjExYTUuOTg0NyA1Ljk4NDcgMCAwIDAtLjUxNTctNC45MTA4IDYuMDQ2MiA2LjA0NjIgMCAwIDAtNi41MDk4LTIuOUE2LjA2NTEgNi4wNjUxIDAgMCAwIDQuOTgwNyA0LjE4MThhNS45ODQ3IDUuOTg0NyAwIDAgMC0zLjk5NzcgMi45IDYuMDQ2MiA2LjA0NjIgMCAwIDAgLjc0MjcgNy4wOTY2IDUuOTggNS45OCAwIDAgMCAuNTExIDQuOTEwNyA2LjA1MSA2LjA1MSAwIDAgMCA2LjUxNDYgMi45MDAxQTUuOTg0NyA1Ljk4NDcgMCAwIDAgMTMuMjU5OSAyNGE2LjA1NTcgNi4wNTU3IDAgMCAwIDUuNzcxOC00LjIwNTggNS45ODk0IDUuOTg5NCAwIDAgMCAzLjk5NzctMi45MDAxIDYuMDU1NyA2LjA1NTcgMCAwIDAtLjc0NzUtNy4wNzI5em0tOS4wMjIgMTIuNjA4MWE0LjQ3NTUgNC40NzU1IDAgMCAxLTIuODc2NC0xLjA0MDhsLjE0MTktLjA4MDQgNC43NzgzLTIuNzU4MmEuNzk0OC43OTQ4IDAgMCAwIC4zOTI3LS42ODEzdi02LjczNjlsMi4wMiAxLjE2ODZhLjA3MS4wNzEgMCAwIDEgLjAzOC4wNTJ2NS41ODI2YTQuNTA0IDQuNTA0IDAgMCAxLTQuNDk0NSA0LjQ5NDR6bS05LjY2MDctNC4xMjU0YTQuNDcwOCA0LjQ3MDggMCAwIDEtLjUzNDYtMy4wMTM3bC4xNDIuMDg1MiA0Ljc4MyAyLjc1ODJhLjc3MTIuNzcxMiAwIDAgMCAuNzgwNiAwbDUuODQyOC0zLjM2ODV2Mi4zMzI0YS4wODA0LjA4MDQgMCAwIDEtLjAzMzIuMDYxNUw5Ljc0IDE5Ljk1MDJhNC40OTkyIDQuNDk5MiAwIDAgMS02LjE0MDgtMS42NDY0ek0yLjM0MDggNy44OTU2YTQuNDg1IDQuNDg1IDAgMCAxIDIuMzY1NS0xLjk3MjhWMTEuNmEuNzY2NC43NjY0IDAgMCAwIC4zODc5LjY3NjVsNS44MTQ0IDMuMzU0My0yLjAyMDEgMS4xNjg1YS4wNzU3LjA3NTcgMCAwIDEtLjA3MSAwbC00LjgzMDMtMi43ODY1QTQuNTA0IDQuNTA0IDAgMCAxIDIuMzQwOCA3Ljg3MnptMTYuNTk2MyAzLjg1NThMMTMuMTAzOCA4LjM2NCAxNS4xMTkyIDcuMmEuMDc1Ny4wNzU3IDAgMCAxIC4wNzEgMGw0LjgzMDMgMi43OTEzYTQuNDk0NCA0LjQ5NDQgMCAwIDEtLjY3NjUgOC4xMDQydi01LjY3NzJhLjc5Ljc5IDAgMCAwLS40MDctLjY2N3ptMi4wMTA3LTMuMDIzMWwtLjE0Mi0uMDg1Mi00Ljc3MzUtMi43ODE4YS43NzU5Ljc3NTkgMCAwIDAtLjc4NTQgMEw5LjQwOSA5LjIyOTdWNi44OTc0YS4wNjYyLjA2NjIgMCAwIDEgLjAyODQtLjA2MTVsNC44MzAzLTIuNzg2NmE0LjQ5OTIgNC40OTkyIDAgMCAxIDYuNjgwMiA0LjY2ek04LjMwNjUgMTIuODYzbC0yLjAyLTEuMTYzOGEuMDgwNC4wODA0IDAgMCAxLS4wMzgtLjA1NjdWNi4wNzQyYTQuNDk5MiA0LjQ5OTIgMCAwIDEgNy4zNzU3LTMuNDUzN2wtLjE0Mi4wODA1TDguNzA0IDUuNDU5YS43OTQ4Ljc5NDggMCAwIDAtLjM5MjcuNjgxM3ptMS4wOTc2LTIuMzY1NGwyLjYwMi0xLjQ5OTggMi42MDY5IDEuNDk5OHYyLjk5OTRsLTIuNTk3NCAxLjQ5OTctMi42MDY3LTEuNDk5N1oiLz48L3N2Zz4%3D" alt="OpenAI" />
-<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-<img src="https://img.shields.io/badge/Local%20LLMs-6B21A8?style=for-the-badge&logo=huggingface&logoColor=white" alt="Local LLMs" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-
-**Engineering Management & Ways of Working**
-
-<img src="https://img.shields.io/badge/Engineering%20Management-0F172A?style=for-the-badge" alt="Engineering Management" />
-<img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge" alt="Scrum" />
-<img src="https://img.shields.io/badge/Agile-1E3A8A?style=for-the-badge" alt="Agile" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
-<img src="https://img.shields.io/badge/Qase-4F46E5?style=for-the-badge&logo=qase&logoColor=white" alt="Qase" />
-
+<table>
+  <tr>
+    <td width="150"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=vue,nuxtjs,ts,js,tailwind,sass,vite,vitest,pinia&theme=dark&perline=9" alt="Vue, Nuxt, TypeScript, JavaScript, Tailwind, Sass, Vite, Vitest, Pinia" /><br/><sub>PrimeVue · ApexCharts · Vue Flow · vue-i18n · OpenAPI clients</sub></td>
+  </tr>
+  <tr>
+    <td width="150"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs&theme=dark" alt="Python, Django, FastAPI, Flask, Node.js" /><br/><sub>Django REST Framework · Celery · Pydantic · Pandas · pytest · Ruff · uv</sub></td>
+  </tr>
+  <tr>
+    <td width="150"><b>Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb,dynamodb,sqlite&theme=dark" alt="PostgreSQL, Redis, MySQL, MongoDB, DynamoDB, SQLite" /><br/><sub>RDS · ElastiCache · S3 · MinIO</sub></td>
+  </tr>
+  <tr>
+    <td width="150"><b>Cloud & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,githubactions,linux,nginx&theme=dark" alt="AWS, Terraform, Kubernetes, Docker, GitHub Actions, Linux, Nginx" /><br/><sub>EKS · ECR · CloudWatch · Helm · SOPS · Sentry</sub></td>
+  </tr>
+  <tr>
+    <td width="150"><b>3D & BIM</b></td>
+    <td><img src="https://skillicons.dev/icons?i=threejs&theme=dark" alt="Three.js" /><br/><sub>IFC · IfcOpenShell · web-ifc · WebGL · LCA data</sub></td>
+  </tr>
+  <tr>
+    <td width="150"><b>AI</b></td>
+    <td><sub>Claude · Claude Code · MCP servers · OpenAI · Ollama and local LLMs · Hugging Face · n8n</sub></td>
+  </tr>
+  <tr>
+    <td width="150"><b>Ways of working</b></td>
+    <td><sub>Team leadership · Scrum · Jira · Confluence · Qase · code review · release management</sub></td>
+  </tr>
+</table>
 </div>
 
 <br/>
@@ -118,28 +102,12 @@ I'm a software engineer who likes owning a feature end to end: the data model, t
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GebleaAlex/GebleaAlex/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GebleaAlex/GebleaAlex/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/GebleaAlex/GebleaAlex/output/github-snake.svg" width="100%" />
+    <img alt="Contribution graph eaten by a snake" src="https://raw.githubusercontent.com/GebleaAlex/GebleaAlex/output/github-snake.svg" width="100%" />
   </picture>
-</div>
-
-<br/>
-
-<!-- Connect -->
-## 🤝 Let's connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/alex-geblea/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D" alt="LinkedIn" />
-  </a>
-  <a href="mailto:alex.geblea@carbontool.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/GebleaAlex">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <sub>Most of my work happens in private company repositories, so the graph shows more than the public repos do.</sub>
 </div>
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%" alt="" />
 </div>
