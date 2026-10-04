@@ -26,14 +26,16 @@ I lead the engineering teams at **[CarbonTool](https://carbontool.com)** and **[
 
 <br/>
 
-## 🚀 Featured work
+## 🚀 Open Source Projects
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="55%" valign="middle">
       <a href="https://github.com/GebleaAlex/ifc-carbon-viewer">
         <img src="https://raw.githubusercontent.com/GebleaAlex/ifc-carbon-viewer/main/docs/viewer-carbon-selection.png" alt="IFC Carbon Viewer coloured by embodied carbon" width="100%" />
       </a>
+    </td>
+    <td width="45%" valign="top">
       <h3><a href="https://github.com/GebleaAlex/ifc-carbon-viewer">IFC Carbon Viewer</a></h3>
       <p>Open an IFC/BIM model in the browser and see an indicative embodied-carbon estimate for every element. Colour by material, carbon or IFC class, filter by storey and inspect property sets.</p>
       <p>
@@ -41,16 +43,6 @@ I lead the engineering teams at **[CarbonTool](https://carbontool.com)** and **[
         <img src="https://img.shields.io/badge/IfcOpenShell-1F6FEB?style=flat-square" alt="IfcOpenShell" />
         <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3" />
         <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Agent Console · private</h3>
-      <p>A self-hosted console for a team of Claude Code agents: inbox triage across Outlook, Teams and Jira, reply drafts, research briefings, QA runs in a real browser and developer agents that work on branches for review. An orchestrator hands work to the right agent.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
-        <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-        <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white" alt="Nuxt" />
       </p>
     </td>
   </tr>
