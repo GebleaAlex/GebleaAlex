@@ -46,6 +46,23 @@ I lead the engineering teams at **[CarbonTool](https://carbontool.com)** and **[
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="55%" valign="middle">
+      <a href="https://github.com/GebleaAlex/f1-paddock-stats">
+        <img src="https://raw.githubusercontent.com/GebleaAlex/f1-paddock-stats/main/docs/telemetry.png" alt="Paddock Stats comparing two qualifying laps" width="100%" />
+      </a>
+    </td>
+    <td width="45%" valign="top">
+      <h3><a href="https://github.com/GebleaAlex/f1-paddock-stats">F1 Paddock Stats</a></h3>
+      <p>Formula 1 statistics from 1950 to today: race stories, tyre strategy with a what-if simulator, telemetry for any two laps, and driver and car ratings across eras. Comes with an MCP server so assistants can query the data.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" alt="DuckDB" />
+        <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white" alt="Nuxt" />
+        <img src="https://img.shields.io/badge/ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white" alt="ECharts" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 <br/>
