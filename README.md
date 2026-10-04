@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=0EA5E9&center=true&vCenter=true&width=640&lines=Full-stack%2C+from+data+model+to+deploy;Carbon+accounting+software+in+production;IFC%2FBIM+models+in+the+browser+with+Three.js;Claude+agents+that+do+real+work" alt="Full-stack, from data model to deploy · Carbon accounting software in production · IFC/BIM models in the browser · Claude agents that do real work" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=0EA5E9&center=true&vCenter=true&width=640&lines=Full-stack%2C+from+data+model+to+deploy;Business+automation+and+autonomous+AI+agents;MCP+servers+that+connect+AI+to+your+data;AWS+cloud+setup%2C+from+first+deploy+to+scale;Carbon+accounting+software+in+production" alt="Full-stack, from data model to deploy · Business automation and autonomous AI agents · MCP servers that connect AI to your data · AWS cloud setup, from first deploy to scale · Carbon accounting software in production" />
 </div>
 
 <div align="center">
