@@ -26,44 +26,39 @@ I lead the engineering teams at **[CarbonTool](https://carbontool.com)** and **[
 
 <br/>
 
-## 🚀 Open Source Projects
+## 🚀 Open source projects
 
-<table>
-  <tr>
-    <td width="55%" valign="middle">
-      <a href="https://github.com/GebleaAlex/ifc-carbon-viewer">
-        <img src="https://raw.githubusercontent.com/GebleaAlex/ifc-carbon-viewer/main/docs/viewer-carbon-selection.png" alt="IFC Carbon Viewer coloured by embodied carbon" width="100%" />
-      </a>
-    </td>
-    <td width="45%" valign="top">
-      <h3><a href="https://github.com/GebleaAlex/ifc-carbon-viewer">IFC Carbon Viewer</a></h3>
-      <p>Open an IFC/BIM model in the browser and see an indicative embodied-carbon estimate for every element. Colour by material, carbon or IFC class, filter by storey and inspect property sets.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/IfcOpenShell-1F6FEB?style=flat-square" alt="IfcOpenShell" />
-        <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3" />
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="55%" valign="middle">
-      <a href="https://github.com/GebleaAlex/f1-paddock-stats">
-        <img src="https://raw.githubusercontent.com/GebleaAlex/f1-paddock-stats/main/docs/telemetry.png" alt="Paddock Stats comparing two qualifying laps" width="100%" />
-      </a>
-    </td>
-    <td width="45%" valign="top">
-      <h3><a href="https://github.com/GebleaAlex/f1-paddock-stats">F1 Paddock Stats</a></h3>
-      <p>Formula 1 statistics from 1950 to today: race stories, tyre strategy with a what-if simulator, telemetry for any two laps, and driver and car ratings across eras. Comes with an MCP server so assistants can query the data.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" alt="DuckDB" />
-        <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white" alt="Nuxt" />
-        <img src="https://img.shields.io/badge/ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white" alt="ECharts" />
-      </p>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/GebleaAlex/ifc-carbon-viewer">
+  <img src="assets/ifc-carbon-viewer.png" alt="IFC Carbon Viewer: a three-storey building coloured by embodied carbon, with one wall selected and its four material layers listed" width="100%" />
+</a>
+
+### [IFC Carbon Viewer](https://github.com/GebleaAlex/ifc-carbon-viewer)
+
+Open an IFC/BIM model in the browser and see where its embodied carbon is: per element, per material layer, per storey. Colour by material, carbon, class or storey, cut through the building with a section plane, and correct material matches to watch the numbers update.
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/IfcOpenShell-1F6FEB?style=flat-square" alt="IfcOpenShell" />
+  <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+</p>
+
+<br/>
+
+<a href="https://github.com/GebleaAlex/f1-paddock-stats">
+  <img src="assets/paddock-stats.png" alt="Paddock Stats: two qualifying laps compared, with a track map coloured by the faster driver and the speed, gap and throttle traces" width="100%" />
+</a>
+
+### [F1 Paddock Stats](https://github.com/GebleaAlex/f1-paddock-stats)
+
+Formula 1 statistics from 1950 to today: race stories, tyre strategy with a what-if simulator, telemetry for any two laps, and driver and car ratings across eras. Comes with an MCP server so assistants can query the data.
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" alt="DuckDB" />
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white" alt="Nuxt" />
+  <img src="https://img.shields.io/badge/ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white" alt="ECharts" />
+</p>
 
 <br/>
 
@@ -71,38 +66,31 @@ I lead the engineering teams at **[CarbonTool](https://carbontool.com)** and **[
 
 Mostly **Python** and **TypeScript**, with **Django**, **FastAPI**, **Vue** and **Nuxt**, running on **AWS**. The full toolbox:
 
-<div align="center">
-<table>
-  <tr>
-    <td width="150"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=vue,nuxtjs,ts,js,tailwind,sass,vite,vitest,pinia&theme=dark&perline=9" alt="Vue, Nuxt, TypeScript, JavaScript, Tailwind, Sass, Vite, Vitest, Pinia" /><br/><sub>PrimeVue · ApexCharts · Vue Flow · vue-i18n · OpenAPI clients</sub></td>
-  </tr>
-  <tr>
-    <td width="150"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs&theme=dark" alt="Python, Django, FastAPI, Flask, Node.js" /><br/><sub>Django REST Framework · Celery · Pydantic · Pandas · pytest · Ruff · uv</sub></td>
-  </tr>
-  <tr>
-    <td width="150"><b>Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb,dynamodb,sqlite&theme=dark" alt="PostgreSQL, Redis, MySQL, MongoDB, DynamoDB, SQLite" /><br/><sub>RDS · ElastiCache · S3 · MinIO</sub></td>
-  </tr>
-  <tr>
-    <td width="150"><b>Cloud & DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,githubactions,linux,nginx&theme=dark" alt="AWS, Terraform, Kubernetes, Docker, GitHub Actions, Linux, Nginx" /><br/><sub>EKS · ECR · CloudWatch · Helm · SOPS · Sentry</sub></td>
-  </tr>
-  <tr>
-    <td width="150"><b>3D & BIM</b></td>
-    <td><img src="https://skillicons.dev/icons?i=threejs&theme=dark" alt="Three.js" /><br/><sub>IFC · IfcOpenShell · web-ifc · WebGL · LCA data</sub></td>
-  </tr>
-  <tr>
-    <td width="150"><b>AI</b></td>
-    <td><sub>Claude · Claude Code · MCP servers · OpenAI · Ollama and local LLMs · Hugging Face · n8n</sub></td>
-  </tr>
-  <tr>
-    <td width="150"><b>Ways of working</b></td>
-    <td><sub>Team leadership · Scrum · Jira · Confluence · Qase · code review · release management</sub></td>
-  </tr>
-</table>
-</div>
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,ts,js,tailwind,sass,vite,vitest,pinia&theme=dark&perline=10" height="40" alt="Vue, Nuxt, React, TypeScript, JavaScript, Tailwind, Sass, Vite, Vitest, Pinia" /><br/>
+<sub>PrimeVue · ApexCharts · Chart.js · Vue Flow · vue-i18n · OpenAPI clients</sub>
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs&theme=dark" height="40" alt="Python, Django, FastAPI, Flask, Node.js" /><br/>
+<sub>Django REST Framework · Celery · Pydantic · Pandas · pytest · Ruff · uv · LibreOffice API</sub>
+
+**Data**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb,dynamodb,sqlite&theme=dark" height="40" alt="PostgreSQL, Redis, MySQL, MongoDB, DynamoDB, SQLite" /><br/>
+<sub>SQL and NoSQL · RDS · ElastiCache · S3 · MinIO</sub>
+
+**Cloud & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,githubactions,linux,nginx&theme=dark" height="40" alt="AWS, Terraform, Kubernetes, Docker, GitHub Actions, Linux, Nginx" /><br/>
+<sub>EKS · ECR · CloudWatch · Helm · SOPS · Sentry · virtual machines</sub>
+
+**3D & BIM**<br/>
+<img src="https://skillicons.dev/icons?i=threejs&theme=dark" height="40" alt="Three.js" /><br/>
+<sub>IFC · IfcOpenShell · web-ifc · WebGL · LCA data</sub>
+
+**AI**<br/>
+<sub>Claude · Claude Code · MCP servers · OpenAI · Ollama and local LLMs · Hugging Face · n8n</sub>
+
+**Ways of working**<br/>
+<sub>Team leadership · Scrum · Jira · Confluence · Qase · code review · release management</sub>
 
 <br/>
 
